@@ -1,0 +1,10 @@
+html{
+    background:yellow;
+    margin:0;
+    padding:0;
+}
+
+.clock{
+    background:#f8f9fa;
+    border:5px solid #323031;
+}
